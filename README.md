@@ -1,2 +1,2 @@
 # quete05-Git
-Remote
+Local
